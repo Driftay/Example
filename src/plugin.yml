@@ -1,0 +1,5 @@
+name: Example
+version: 1.0
+description: this is my example
+author: Driftay
+main: me.driftay.example.Main
